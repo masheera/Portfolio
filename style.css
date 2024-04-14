@@ -1,0 +1,206 @@
+.nav
+{
+    position: absolute;
+    left: 94%;
+    bottom: 88%;
+}
+.box1{
+    display: inline-block;
+    background-color:#8576FF;
+    width:70%;
+    color: white;
+    padding: 0px 0px 128px 0px;
+}
+.content
+{
+    padding: 150px;
+}
+#menu:hover
+{
+    cursor: pointer;
+}
+.menu-content
+{
+    
+    position:absolute;
+    bottom: 600px;
+    top:70px;
+    left: 1000px; 
+    width:120px;
+    background-color: aliceblue; 
+    color: white;
+    display: none;
+}
+.menu-content:hover
+{
+    cursor: pointer;   
+}
+.box2
+{
+    position: absolute;
+    display:inline-block;
+    background-color: #1C1678;
+    width:175px;
+    padding: 170px 190px 450px 0px;
+    
+}
+.border_div
+{
+    position: absolute;
+    top: 150px;
+    left: 795px;
+    border:2px solid white; 
+    margin: 0;
+    width: 13.5%;
+    height: 230px;
+}
+.img_div
+{
+    position: absolute;  
+    top: 90px;
+    left: 730px;
+    width: 10%;
+}
+#about
+{
+    margin:25px;
+    margin-left: 120px;
+    padding: 10px 20px;
+    border-radius: 16px;
+    border: none;
+}
+#about:hover
+{
+    background-color: #1C1678;
+    color: white;
+}
+.about
+{
+    padding-top: 10px;
+    width: 100%;
+    background-color: #C2D9FF;   
+    margin-bottom: 0;
+}
+.about-content
+{
+    padding: 10px 20px 200px 50px;
+    width: 40%;
+} 
+.skill-content
+{
+    /* padding-top: 20px; */
+    position:absolute;
+    width: 50%;
+    top: 720px;
+    margin-left: 600px;
+}
+.bar
+{
+    width: 80%;
+    background-color: rgba(95, 94, 95, 0.237);
+}
+h3
+{
+    background-color: #59D5E0; 
+    width: 20%; 
+    text-align: center;
+    color: white;
+    padding: 0px 20px 0px 20px;
+}
+.html
+{
+    width: 90%;
+    background-color: rgb(0, 161, 167);
+}
+.css
+{
+    width: 90%;
+    background-color: rgb(0, 161, 167);
+}
+.javascript
+{
+    width: 75%;
+    background-color: rgb(0, 161, 167);
+}
+.sql
+{
+    width: 90%;
+    background-color: rgb(0, 161, 167);
+}
+.python
+{
+    width: 70%;
+    background-color: rgb(0, 161, 167);
+}
+.github
+{
+    width: 60%;
+    background-color: rgb(0, 161, 167);
+}
+
+body
+{
+    margin: 0px;
+}
+
+#proj-button
+{
+    padding: 9px 25px;
+    margin: 10px;
+    border-radius: 15px;
+    border: none;
+}
+#proj-button:hover
+{
+    background-color:#1C1678;
+    color: white;
+}
+#proj1:hover
+{
+    cursor: pointer;
+}
+.projects
+{
+    background-color: #F5F5F5;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.contact
+{
+    background-color:#252934;
+    padding-bottom: 100px;
+}
+input,textarea
+{
+    padding: 10px;
+    width: 400px;
+    margin: 4px;
+    color: white;
+    border: 0px;
+    background-color:#1e242c;
+}
+#send
+{
+    margin-top: 10px;
+    background-color:#252934; 
+    border: solid #ffffff;
+    border-radius: 18px;
+    padding: 5px 10px;
+    color: white;
+}
+#send:hover
+{
+    background-color:white;
+    color: black;
+
+}
+footer
+{
+    font-size: 12px; 
+    text-align: center; 
+    color: white;
+    padding: 10px; 
+    margin: 0; 
+    background-color: #1b242f;
+}
