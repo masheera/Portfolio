@@ -129,7 +129,12 @@ h3
 }
 .python
 {
-    width: 70%;
+    width: 90%;
+    background-color: rgb(0, 161, 167);
+}
+.django
+{
+    width: 90%;
     background-color: rgb(0, 161, 167);
 }
 .github
